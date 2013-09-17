@@ -48,7 +48,7 @@ for project in jp["projects"]:
 
 print info
 
-fn = "CNO_IDs_in_OSB.txt"
+fn = "CNO_IDs_in_OSB.md"
 
 info_file = open(fn, 'w')
 info_file.write(info)

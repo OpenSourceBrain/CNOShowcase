@@ -1,6 +1,5 @@
 
 http://opensourcebrain.org/projects/vogelsetal2011:                                                   cno_0000015; cno_0000066; cno_0000185
-http://opensourcebrain.org/projects/cnoshowcase:                                                      
 http://opensourcebrain.org/projects/fitzhugh-nagumo-fitzhugh-1969:                                    
 http://opensourcebrain.org/projects/hindmarshrose1984:                                                cno_0000074
 http://opensourcebrain.org/projects/multicompgrc:                                                     
