@@ -17,7 +17,7 @@ def printCustomField(project, cfName, info):
     for cf in project["custom_fields"]:
         if cf['name'] == cfName and cf.has_key('value'):  
             if cfName == 'CNO Ids':
-                info += cf['value']+" "
+                info += cf['value']+"  "
             else:
                 info += ""
     return info

@@ -1,7 +1,7 @@
 
-http://opensourcebrain.org/projects/vogelsetal2011:                                                   cno_0000015; cno_0000066; cno_0000185 
+http://opensourcebrain.org/projects/vogelsetal2011:                                                   cno_0000015; cno_0000066; cno_0000185  
 http://opensourcebrain.org/projects/fitzhugh-nagumo-fitzhugh-1969:                                    
-http://opensourcebrain.org/projects/hindmarshrose1984:                                                cno_0000074 
+http://opensourcebrain.org/projects/hindmarshrose1984:                                                cno_0000074  
 http://opensourcebrain.org/projects/multicompgrc:                                                     
 http://opensourcebrain.org/projects/multiscale-medium-spiny-neuron-mattioni-and-le-novere:            
 http://opensourcebrain.org/projects/olfactory-bulb:                                                   
@@ -24,9 +24,9 @@ http://opensourcebrain.org/projects/grancelllayer:
 http://opensourcebrain.org/projects/grancellsolinasetal10:                                            
 http://opensourcebrain.org/projects/granulecell:                                                      
 http://opensourcebrain.org/projects/grancellrothmanif:                                                
-http://opensourcebrain.org/projects/izhikevichmodel:                                                  cno_0000072 
+http://opensourcebrain.org/projects/izhikevichmodel:                                                  cno_0000072  
 http://opensourcebrain.org/projects/mainenetalpyramidalcell:                                          
-http://opensourcebrain.org/projects/morrislecarmodel:                                                 cno_0000093 
+http://opensourcebrain.org/projects/morrislecarmodel:                                                 cno_0000093  
 http://opensourcebrain.org/projects/piriformcortexvanier:                                             
 http://opensourcebrain.org/projects/purkinjecell:                                                     
 http://opensourcebrain.org/projects/rothmanetalkoleetalpyrcell:                                       
