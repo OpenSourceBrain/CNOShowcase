@@ -1,0 +1,154 @@
+
+
+--------   Project: Balanced network with inhibitory plasticity - Vogels et al. 2011
+
+    No CNO Ids for model
+
+--------   Project: CNOShowcase
+
+    No CNO Ids for model
+
+--------   Project: FitzHugh Nagumo - FitzHugh 1969
+
+    No CNO Ids for model
+
+--------   Project: Hindmarsh and Rose 1984
+
+    No CNO Ids for model
+
+--------   Project: Multicompartmental granule cell - Diwakar et al. 2009
+
+    No CNO Ids for model
+
+--------   Project: Multiscale Medium Spiny Neuron - Mattioni and Le Novere 2013
+
+    No CNO Ids for model
+
+--------   Project: Olfactory Bulb
+
+    No CNO Ids for model
+
+--------   Project: Olfactory Bulb Network Model - O'Connor, Angelo and Jacob 2012
+
+    No CNO Ids for model
+
+--------   Project: OSBMeeting2013 - Piasini and Cantarelli
+
+    No CNO Ids for model
+
+--------   Project: Primary Auditory Cortex network
+
+    No CNO Ids for model
+
+--------   Project: Pyloric pacemaker network - Prinz et al. 2003/04
+
+    No CNO Ids for model
+
+--------   Project: Celegans Neuromechanical Gait Modulation - Boyle  Berri Cohen 2012
+
+    No CNO Ids for model
+
+--------   Project: Drosophila Projection Neuron - Gouwens and Wilson, 2009
+
+    No CNO Ids for model
+
+--------   Project: Layer 5b Pyramidal cell - Hay et al. 2011
+
+    No CNO Ids for model
+
+--------   Project: Minimal HH models - Pospischil et al. 2008
+
+    No CNO Ids for model
+
+--------   Project: Muscle cell model - Boyle & Cohen 2008
+
+    No CNO Ids for model
+
+--------   Project: CA1 Pyramidal Cell - Migliore et al. 2005
+
+    No CNO Ids for model
+
+--------   Project: OpenWorm C. elegans network model
+
+    No CNO Ids for model
+
+--------   Project: Cerebellar Nucleus Neuron - Steuber et al. 2011
+
+    No CNO Ids for model
+
+--------   Project: Reduced CA3 model - Pinsky and Rinzel 1994
+
+    No CNO Ids for model
+
+--------   Project: Self Sustained Network Activity - Destexhe 2009
+
+    No CNO Ids for model
+
+--------   Project: Granule Cell - Steuber, Saviane & Berends
+
+    No CNO Ids for model
+
+--------   Project: Granule Cell Layer - Maex and De Schutter 1998
+
+    No CNO Ids for model
+
+--------   Project: Granule Cell - Solinas et al. 2010
+
+    No CNO Ids for model
+
+--------   Project: Cerebellar Granule Cell - Maex De Schutter 1998
+
+    No CNO Ids for model
+
+--------   Project: I&F granule cell model - Rothman & Piasini
+
+    No CNO Ids for model
+
+--------   Project: Izhikevich Spiking Neuron Model
+
+    OSB link:                      http://opensourcebrain.org/projects/izhikevichmodel
+    CNO Ids:                       cno_0000072
+
+--------   Project: L5 Pyramidal Cell - Mainen et al. 1995
+
+    No CNO Ids for model
+
+--------   Project: Morris Lecar Model
+
+    No CNO Ids for model
+
+--------   Project: Piriform Cortex Pyramidal Neuron
+
+    No CNO Ids for model
+
+--------   Project: Purkinje Cell - De Schutter and Bower 1994
+
+    No CNO Ids for model
+
+--------   Project: L5 Pyramidal cell - Rothman et al. 2009
+
+    No CNO Ids for model
+
+--------   Project: Cerebellar gain and timing - Yamazaki & Nagao 2012
+
+    No CNO Ids for model
+
+--------   Project: Cerebellar Golgi Cell - Solinas et al. 2007
+
+    No CNO Ids for model
+
+--------   Project: Sparsely connected spiking neuron network - Brunel 2000
+
+    No CNO Ids for model
+
+--------   Project: Striatal Spiny Projection Neuron - Blackwell
+
+    No CNO Ids for model
+
+--------   Project: Thalamocortical network - Traub et al. 2005
+
+    No CNO Ids for model
+
+--------   Project: Golgi Cell Network - Vervaeke et al 2010
+
+    No CNO Ids for model

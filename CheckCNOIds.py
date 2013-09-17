@@ -13,13 +13,16 @@ projects = res.get('/projects.json', limit=1000)
 jp = json.loads(projects.body_string())
 
 
-def printCustomField(project, cfName):
+def printCustomField(project, cfName, info):
     for cf in project["custom_fields"]:
         if cf['name'] == cfName and cf.has_key('value'):  
             if cfName == 'CNO Ids':
-                print "    CNO Ids:                       %s"%cf['value']
+                info += "\n    CNO Ids:                       %s"%cf['value']
             else:
-                print "     "+cfName+":             "+ cf['value']
+                info += "\n     "+cfName+":             "+ cf['value']
+    return info
+
+info = ""
 
 for project in jp["projects"]:
 
@@ -32,12 +35,17 @@ for project in jp["projects"]:
             hasCNOids = True
     
     if isProj:
-        print "\n--------   Project: "+ project["name"] + "\n"
+        info += "\n\n--------   Project: "+ project["name"] + "\n"
 
         if hasCNOids:
-            print "    OSB link:                      http://opensourcebrain.org/projects/"+project["identifier"]
-            printCustomField(project, 'CNO Ids')
+            info += "\n    OSB link:                      http://opensourcebrain.org/projects/"+project["identifier"]
+            info = printCustomField(project, 'CNO Ids', info)
         else:
-            print "    No CNO Ids for model"
+            info += "\n    No CNO Ids for model"
 
-        
+print info
+
+fn = "CNO_IDs_in_OSB.txt"
+
+info_file = open(fn, 'w')
+info_file.write(info)
