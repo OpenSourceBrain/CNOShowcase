@@ -17,9 +17,9 @@ def printCustomField(project, cfName, info):
     for cf in project["custom_fields"]:
         if cf['name'] == cfName and cf.has_key('value'):  
             if cfName == 'CNO Ids':
-                info += "\n    CNO Ids:                       %s"%cf['value']
+                info += cf['value']
             else:
-                info += "\n     "+cfName+":             "+ cf['value']
+                info += ""
     return info
 
 info = ""
@@ -35,13 +35,16 @@ for project in jp["projects"]:
             hasCNOids = True
     
     if isProj:
-        info += "\n\n--------   Project: "+ project["name"] + "\n"
 
+        url = "http://opensourcebrain.org/projects/%s"%project["identifier"]
+        info += "\n%s: "%url
+        for i in range(100-len(url)):
+            info += " "
+        
         if hasCNOids:
-            info += "\n    OSB link:                      http://opensourcebrain.org/projects/"+project["identifier"]
             info = printCustomField(project, 'CNO Ids', info)
         else:
-            info += "\n    No CNO Ids for model"
+            info += ""
 
 print info
 

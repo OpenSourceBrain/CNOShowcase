@@ -1,154 +1,39 @@
 
-
---------   Project: Balanced network with inhibitory plasticity - Vogels et al. 2011
-
-    No CNO Ids for model
-
---------   Project: CNOShowcase
-
-    No CNO Ids for model
-
---------   Project: FitzHugh Nagumo - FitzHugh 1969
-
-    No CNO Ids for model
-
---------   Project: Hindmarsh and Rose 1984
-
-    No CNO Ids for model
-
---------   Project: Multicompartmental granule cell - Diwakar et al. 2009
-
-    No CNO Ids for model
-
---------   Project: Multiscale Medium Spiny Neuron - Mattioni and Le Novere 2013
-
-    No CNO Ids for model
-
---------   Project: Olfactory Bulb
-
-    No CNO Ids for model
-
---------   Project: Olfactory Bulb Network Model - O'Connor, Angelo and Jacob 2012
-
-    No CNO Ids for model
-
---------   Project: OSBMeeting2013 - Piasini and Cantarelli
-
-    No CNO Ids for model
-
---------   Project: Primary Auditory Cortex network
-
-    No CNO Ids for model
-
---------   Project: Pyloric pacemaker network - Prinz et al. 2003/04
-
-    No CNO Ids for model
-
---------   Project: Celegans Neuromechanical Gait Modulation - Boyle  Berri Cohen 2012
-
-    No CNO Ids for model
-
---------   Project: Drosophila Projection Neuron - Gouwens and Wilson, 2009
-
-    No CNO Ids for model
-
---------   Project: Layer 5b Pyramidal cell - Hay et al. 2011
-
-    No CNO Ids for model
-
---------   Project: Minimal HH models - Pospischil et al. 2008
-
-    No CNO Ids for model
-
---------   Project: Muscle cell model - Boyle & Cohen 2008
-
-    No CNO Ids for model
-
---------   Project: CA1 Pyramidal Cell - Migliore et al. 2005
-
-    No CNO Ids for model
-
---------   Project: OpenWorm C. elegans network model
-
-    No CNO Ids for model
-
---------   Project: Cerebellar Nucleus Neuron - Steuber et al. 2011
-
-    No CNO Ids for model
-
---------   Project: Reduced CA3 model - Pinsky and Rinzel 1994
-
-    No CNO Ids for model
-
---------   Project: Self Sustained Network Activity - Destexhe 2009
-
-    No CNO Ids for model
-
---------   Project: Granule Cell - Steuber, Saviane & Berends
-
-    No CNO Ids for model
-
---------   Project: Granule Cell Layer - Maex and De Schutter 1998
-
-    No CNO Ids for model
-
---------   Project: Granule Cell - Solinas et al. 2010
-
-    No CNO Ids for model
-
---------   Project: Cerebellar Granule Cell - Maex De Schutter 1998
-
-    No CNO Ids for model
-
---------   Project: I&F granule cell model - Rothman & Piasini
-
-    No CNO Ids for model
-
---------   Project: Izhikevich Spiking Neuron Model
-
-    OSB link:                      http://opensourcebrain.org/projects/izhikevichmodel
-    CNO Ids:                       cno_0000072
-
---------   Project: L5 Pyramidal Cell - Mainen et al. 1995
-
-    No CNO Ids for model
-
---------   Project: Morris Lecar Model
-
-    No CNO Ids for model
-
---------   Project: Piriform Cortex Pyramidal Neuron
-
-    No CNO Ids for model
-
---------   Project: Purkinje Cell - De Schutter and Bower 1994
-
-    No CNO Ids for model
-
---------   Project: L5 Pyramidal cell - Rothman et al. 2009
-
-    No CNO Ids for model
-
---------   Project: Cerebellar gain and timing - Yamazaki & Nagao 2012
-
-    No CNO Ids for model
-
---------   Project: Cerebellar Golgi Cell - Solinas et al. 2007
-
-    No CNO Ids for model
-
---------   Project: Sparsely connected spiking neuron network - Brunel 2000
-
-    No CNO Ids for model
-
---------   Project: Striatal Spiny Projection Neuron - Blackwell
-
-    No CNO Ids for model
-
---------   Project: Thalamocortical network - Traub et al. 2005
-
-    No CNO Ids for model
-
---------   Project: Golgi Cell Network - Vervaeke et al 2010
-
-    No CNO Ids for model
+http://opensourcebrain.org/projects/vogelsetal2011:                                                   
+http://opensourcebrain.org/projects/cnoshowcase:                                                      
+http://opensourcebrain.org/projects/fitzhugh-nagumo-fitzhugh-1969:                                    
+http://opensourcebrain.org/projects/hindmarshrose1984:                                                cno_0000074
+http://opensourcebrain.org/projects/multicompgrc:                                                     
+http://opensourcebrain.org/projects/multiscale-medium-spiny-neuron-mattioni-and-le-novere:            
+http://opensourcebrain.org/projects/olfactory-bulb:                                                   
+http://opensourcebrain.org/projects/olfactory-bulb-network-model-o-connor-angelo-and-jacob-2012:      
+http://opensourcebrain.org/projects/osbmeeting2013-piasini-and-cantarelli:                            
+http://opensourcebrain.org/projects/acnet2:                                                           
+http://opensourcebrain.org/projects/pyloricnetwork:                                                   
+http://opensourcebrain.org/projects/celegansneuromechanicalgaitmodulation:                            
+http://opensourcebrain.org/projects/drosophila_projection_neuron:                                     
+http://opensourcebrain.org/projects/l5bpyrcellhayetal2011:                                            
+http://opensourcebrain.org/projects/pospischiletal2008:                                               
+http://opensourcebrain.org/projects/muscle_model:                                                     
+http://opensourcebrain.org/projects/ca1pyramidalcell:                                                 
+http://opensourcebrain.org/projects/celegans:                                                         
+http://opensourcebrain.org/projects/cerebellarnucleusneuron:                                          
+http://opensourcebrain.org/projects/pinskyrinzelmodel:                                                
+http://opensourcebrain.org/projects/destexhe_jcns_2009:                                               
+http://opensourcebrain.org/projects/granulecellvscs:                                                  
+http://opensourcebrain.org/projects/grancelllayer:                                                    
+http://opensourcebrain.org/projects/grancellsolinasetal10:                                            
+http://opensourcebrain.org/projects/granulecell:                                                      
+http://opensourcebrain.org/projects/grancellrothmanif:                                                
+http://opensourcebrain.org/projects/izhikevichmodel:                                                  cno_0000072
+http://opensourcebrain.org/projects/mainenetalpyramidalcell:                                          
+http://opensourcebrain.org/projects/morrislecarmodel:                                                 cno_0000093
+http://opensourcebrain.org/projects/piriformcortexvanier:                                             
+http://opensourcebrain.org/projects/purkinjecell:                                                     
+http://opensourcebrain.org/projects/rothmanetalkoleetalpyrcell:                                       
+http://opensourcebrain.org/projects/cerebellargainandtiming:                                          
+http://opensourcebrain.org/projects/cerebellum--cerebellar-golgi-cell--solinasetal-golgicell:         
+http://opensourcebrain.org/projects/brunel2000:                                                       
+http://opensourcebrain.org/projects/striatalspinyprojectionneuron:                                    
+http://opensourcebrain.org/projects/thalamocortical:                                                  
+http://opensourcebrain.org/projects/vervaekeetalgolgicellnetwork:                                     
