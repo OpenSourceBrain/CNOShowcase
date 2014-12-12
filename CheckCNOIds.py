@@ -37,7 +37,7 @@ for project in jp["projects"]:
     if isProj:
 
         url = "http://opensourcebrain.org/projects/%s"%project["identifier"]
-        info += "\n%s: "%url
+        info += "\n%s "%url
         for i in range(100-len(url)):
             info += " "
         
